@@ -1,16 +1,63 @@
-## Hi there 👋
+# Hi, I'm Anastasios 👋
 
-<!--
-**xanast/xanast** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Computer Science student from Greece interested in cybersecurity, backend development and automation tools.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Technologies
+
+- Python
+- JavaScript
+- Node.js
+- React
+- REST APIs
+- CLI tools
+
+---
+
+## 🔐 Cybersecurity Projects
+
+### Offline Hash Auditor
+Python CLI tool for auditing password hashes with multithreading support.
+
+Features:
+- Automatic hash detection
+- Multithreaded dictionary auditing
+- Wordlist statistics
+- Progress tracking
+- JSON reporting
+- Colored CLI output
+
+Repo:
+https://github.com/xanast/offline-hash-auditor
+
+---
+
+## 📦 Other Projects
+
+### Streetyz Deal Analyzer
+Tool for analyzing resale opportunities.
+
+### Task API
+Simple REST API built with Node.js and Express.
+
+---
+
+## 📚 Currently Learning
+
+- Cybersecurity
+- Python automation
+- Network security
+- Security tooling
+
+---
+
+## 🌍 Location
+
+Greece 🇬🇷
+
+---
+
+## 📫 Contact
+
+GitHub: https://github.com/xanast
