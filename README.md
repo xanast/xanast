@@ -64,6 +64,6 @@ GitHub: https://github.com/xanast
 
 ## 📊 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanast&show_icons=true&theme=dark&cache_seconds=1800)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=xanast&show_icons=true)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xanast&layout=compact&theme=dark&cache_seconds=1800)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=xanast&layout=compact)
